@@ -2,6 +2,8 @@
 
 ## A small script coded for crawling all Facebook stickers available in the store
 
+## Crawler stickers: https://drive.google.com/open?id=1pZ2wM1HbgAbDO6s5TumykVwB-XFLDOSz
+
 ## Prerequisite
 - NodeJS
 - npm
